@@ -1,2 +1,2 @@
-# Python
+# Automation Scripts
 python programs  
